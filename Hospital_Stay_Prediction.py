@@ -26,7 +26,7 @@ warnings.filterwarnings("ignore")
 # In[2]:
 
 
-df = pd.read_csv('train_data.csv')
+df = pd.read_csv('data.csv')
 
 
 # In[3]:
