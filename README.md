@@ -3,9 +3,9 @@
 <br />
 <div align="center">
   
-    <img src="images/logo.jpg" alt="Logo" width="80" height="80">
+    
 
-  <h3 align="center">Hospital Stay Prediction</h3>
+  <h2 align="center">Hospital Stay Prediction</h2>
 
   
 </div>
