@@ -63,7 +63,7 @@ def fill_with_mode(col):
 
 # In[8]:
 
-
+#Imputing null values
 fill_with_mode('Bed Grade')
 
 
