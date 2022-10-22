@@ -29,6 +29,7 @@
 
 
 ## About The Project
+
 Healthcare service is considered to be one of the most vital parts of modern human societies. The recent Covid-19 pandemic has stressed the importance of the role played by the healthcare services. In this project, we are going to work on a healthcare dataset that contains information about different patients, their conditions, and the number of days they were hospitalized. Our aim is to train different models that can predict the stay of a patient in a hospital, based on the initial conditions. This helps hospitals to identify patients of high length of stay risk at the time of admission and help in optimizing the treatment plan for patients who are likely to stay longer in the hospital and lower the chance of staff or visitor infection. We used Decision Tree classifier, Random Forest classifier, and CatBoost classifier to predict length of stay.
 
 
